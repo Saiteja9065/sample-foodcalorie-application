@@ -1,0 +1,10 @@
+{
+  "name": "Nourish & Flow - Apothecary & Meter",
+  "description": "Tactile Horology & Apothecary nutrition registry featuring mechanical balance scales, diurnal slots, and analog precision metering.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
